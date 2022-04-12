@@ -1,0 +1,17 @@
+{
+  "isbn": "9787115360694",
+  "title": "计算机程序设计艺术 卷2: 半数值算法 (第3版)",
+  "parallel_title": "The Art of Computer Programming, Vol 2: Seminumerical Algorithms",
+  "series_title": "图灵计算机科学丛书",
+  "author": "[美] Donald E. Knuth 著; 巫斌, 范明 译",
+  "language_code": "chi",
+  "description": "本卷讨论的算法与数值直接相关，分“随机数”和“算术”两章。第3章不仅研究了生成随机序列的各种方法，还研究了随机性的统计测试、一致随机数到其他类型随机量的转换、随机性本身的特性。第4章讨论了多种数值表示系统以及它们之间的相互转换，还介绍了浮点数、高精度整数、有理分式、多项式及幂级数的算术。",
+  "publisher": "人民邮电出版社",
+  "clc_number": "TP311.1",
+  "publication_date": "2016-07",
+  "pricing": "198.00",
+  "total_pages": "603",
+  "binding": "精装",
+  "suit_flag": true,
+  "holdings": []
+}

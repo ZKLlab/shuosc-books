@@ -1,0 +1,17 @@
+{
+  "isbn": "9787111544937",
+  "title": "深入理解计算机系统 (原书第3版)",
+  "parallel_title": "Computer Systems: A Programmer's Perspective",
+  "series_title": "计算机科学丛书",
+  "author": "[美] Randal E. Bryant, David R. O’Hallaron 著; 龚奕利, 贺莲 译",
+  "language_code": "chi",
+  "description": "本书是将计算机软件和硬件理论结合讲述的经典教程，内容覆盖计算机导论、体系结构和处理器设计等多门课程。本书的最大优点是为程序员描述计算机系统的实现细节，通过描述程序是如何映射到系统上，以及程序是如何执行的，使读者更好地理解程序的行为为什么是这样的，以及造成效率低下的原因。",
+  "publisher": "机械工业出版社",
+  "clc_number": "TP338",
+  "publication_date": "2016-11",
+  "pricing": "139.00",
+  "total_pages": "737",
+  "binding": "平装",
+  "suit_flag": false,
+  "holdings": []
+}

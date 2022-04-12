@@ -1,0 +1,17 @@
+{
+  "isbn": "9787111677222",
+  "title": "JavaScript权威指南 (原书第7版)",
+  "parallel_title": "JavaScript: The Definitive Guide",
+  "series_title": "O'Reilly精品图书系列",
+  "author": "[美] David Flanagan 著; 李松峰译",
+  "language_code": "chi",
+  "description": "本书介绍JavaScript语言和由浏览器与Node实现的JavaScript API。本书适合有一定编程经验、想学习JavaScript读者，也适合已经在使用JavaScript但希望更深入地理解进而真正掌握这门语言的程序员。本书的目标是全面地讲解JavaScript语言，对JavaScript程序中可能用到的重要的客户端API和服务器端API提供深入的介绍。本书篇幅较长，内容非常详尽，相信认真研究本书的读者都能获益良多。",
+  "publisher": "机械工业出版社",
+  "clc_number": "TP312.8-62",
+  "publication_date": "2021-03",
+  "pricing": "139.00",
+  "total_pages": "596",
+  "binding": "平装",
+  "suit_flag": false,
+  "holdings": []
+}

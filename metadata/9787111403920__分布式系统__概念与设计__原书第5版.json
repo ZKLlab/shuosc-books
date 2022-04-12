@@ -1,0 +1,17 @@
+{
+  "isbn": "9787111403920",
+  "title": "分布式系统: 概念与设计 (原书第5版)",
+  "parallel_title": "Distributed Systems: Concepts and Design",
+  "series_title": "计算机科学丛书",
+  "author": "[英] George Coulouris, Jean Dollimore, Tim Kindberg, Gordon Blair 著; 金蓓弘, 马应龙 译",
+  "language_code": "chi",
+  "description": "本书旨在全面介绍互联网及其他常用分布式系统的原理、体系结构、算法和设计，内容涵盖分布式系统的相关概念、安全、数据复制、组通信、分布式文件系统、分布式事务、分布式系统设计等，以及相关的前沿主题，包括Web服务、网格、移动系统和无处不在系统等。",
+  "publisher": "机械工业出版社",
+  "clc_number": "TP316.4",
+  "publication_date": "2013-01",
+  "pricing": "128.00",
+  "total_pages": "652",
+  "binding": "平装",
+  "suit_flag": false,
+  "holdings": []
+}

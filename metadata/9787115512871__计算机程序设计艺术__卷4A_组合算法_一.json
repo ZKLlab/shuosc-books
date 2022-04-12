@@ -1,0 +1,17 @@
+{
+  "isbn": "9787115512871",
+  "title": "计算机程序设计艺术 卷4A: 组合算法 (一)",
+  "parallel_title": "The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, Part 1",
+  "series_title": "图灵计算机科学丛书",
+  "author": "[美] Donald E. Knuth 著; 李伯民, 贾洪峰 译",
+  "language_code": "chi",
+  "description": "《计算机程序设计艺术》系列被公认为计算机科学领域的权威之作，深入阐述了程序设计理论，对计算机领域的发展有着极为深远的影响。本书是该系列的第4卷A，书中主要介绍了组合算法，内容涉及布尔函数、按位操作技巧、元组和排列、组合和分区以及所有的树等。",
+  "publisher": "人民邮电出版社",
+  "clc_number": "TP311.1",
+  "publication_date": "2019-08",
+  "pricing": "228.00",
+  "total_pages": "648",
+  "binding": "精装",
+  "suit_flag": true,
+  "holdings": []
+}

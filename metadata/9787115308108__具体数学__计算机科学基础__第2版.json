@@ -1,0 +1,17 @@
+{
+  "isbn": "9787115308108",
+  "title": "具体数学: 计算机科学基础 (第2版)",
+  "parallel_title": "Concrete Mathematics: A Foundation for Computer Science",
+  "series_title": "图灵计算机科学丛书",
+  "author": "[美] Ronald L. Graham, Donald E. Knuth, Oren Patashnik 著; 张明尧, 张凡 译",
+  "language_code": "chi",
+  "description": "本书是一本在大学中广泛使用的经典数学教科书。书中讲解了许多计算机科学中用到的数学知识和技巧，教你如何把一个实际问题一步步演化为数学模型，然后通过计算机解决它，特别着墨于算法分析方面，其主要内容涉及和式、整值函数、数论、二项式系数、特殊的数、生成函数、离散概率、渐近式等，都是编程所必备的知识。",
+  "publisher": "人民邮电出版社",
+  "clc_number": "TP301.6",
+  "publication_date": "2013-04",
+  "pricing": "99.00",
+  "total_pages": "562",
+  "binding": "平装",
+  "suit_flag": false,
+  "holdings": []
+}

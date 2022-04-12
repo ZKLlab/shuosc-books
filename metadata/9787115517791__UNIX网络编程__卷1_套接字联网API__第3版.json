@@ -1,0 +1,17 @@
+{
+  "isbn": "9787115517791",
+  "title": "UNIX网络编程 卷1: 套接字联网API (第3版)",
+  "parallel_title": "UNIX Network Programming, Volume 1: The Sockets Networking API",
+  "series_title": null,
+  "author": "[美] W. Richard Stevens, Bill Fenner, Andrew M. Rudoff 著",
+  "language_code": "chi",
+  "description": "本书是一部UNIX网络编程的经典之作！书中全面深入地介绍了如何使用套接字API进行网络编程。全书不但介绍了基本编程内容，还涵盖了与套接字编程相关的高级主题，对于客户/服务器程序的各种设计方法也作了完整的探讨，最后还深入分析了流这种设备驱动机制。本书内容详尽且具权威性，几乎每章都提供精选的习题，并提供了部分习题的答案，是网络研究和开发人员理想的参考书。",
+  "publisher": "人民邮电出版社",
+  "clc_number": "TP316.81",
+  "publication_date": "2019-12",
+  "pricing": "169.00",
+  "total_pages": "806",
+  "binding": "平装",
+  "suit_flag": true,
+  "holdings": []
+}

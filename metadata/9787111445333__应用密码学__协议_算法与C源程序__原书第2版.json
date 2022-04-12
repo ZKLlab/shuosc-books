@@ -1,0 +1,17 @@
+{
+  "isbn": "9787111445333",
+  "title": "应用密码学: 协议、算法与C源程序 (原书第2版)",
+  "parallel_title": "Applied Cryptography: Protocols, Algorithms, and Source Code in C",
+  "series_title": "计算机科学丛书",
+  "author": "[美] Bruce Schneier 著; 吴世忠, 祝世雄, 张文政 等译",
+  "language_code": "chi",
+  "description": "密码学的应用领域远远不只是编码和解码信息，要了解有关密码学技术的数字签名的知识，本书是必读之作。本书介绍了密码学协议的通用类型、特定技术，详细介绍了现实世界密码学算法的内部机制，包括DES和RSA公开密钥加密系统。书中提供了源代码列表和大量密码学应用方面的实践活动，如产生真正的随机数和保持密钥安全的重要性。",
+  "publisher": "机械工业出版社",
+  "clc_number": "TN918.1",
+  "publication_date": "2014-01",
+  "pricing": "79.00",
+  "total_pages": "545",
+  "binding": "平装",
+  "suit_flag": false,
+  "holdings": []
+}
