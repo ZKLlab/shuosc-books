@@ -1,0 +1,16 @@
+{
+  "isbn": "9787111617938",
+  "title": "TCP/IP详解 卷2: 实现",
+  "parallelTitle": "TCP/IP Illustrated, Volume 2: The Implementation",
+  "seriesTitle": "计算机科学丛书",
+  "author": "[美] Gary R. Wright, W. Richard Stevens 著; 陆雪莹, 蒋慧 等译",
+  "languageCode": "chi",
+  "description": "本书完整而详细地介绍了TCP/IP是如何实现的。书中给出了约500个图例、15000行实际操作的C代码，采用案例教学的方法帮助读者掌握TCP/IP实现。本书不仅说明了插口API和协议族的关系以及主机实现与路由器实现的差别，还介绍了4.4BSD-Lite版的新特点。本书适用于希望理解TCP/IP实现细节的人，包括编写网络应用程序的程序员以及利用TCP/IP维护计算机网络的系统管理员。",
+  "publisher": "机械工业出版社",
+  "clcNumber": "TN915.04",
+  "publicationDate": "2019-03",
+  "pricing": "139.00",
+  "totalPages": "901",
+  "binding": "平装",
+  "suitFlag": true
+}

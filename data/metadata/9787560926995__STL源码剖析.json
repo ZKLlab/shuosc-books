@@ -1,0 +1,16 @@
+{
+  "isbn": "9787560926995",
+  "title": "STL源码剖析",
+  "parallelTitle": "The Annotated STL Sources (using SGISTL)",
+  "seriesTitle": null,
+  "author": "侯捷 著",
+  "languageCode": "chi",
+  "description": "本书是面向C++中高级程序员的技术专著。STL的含义是标准模板库。STL（标准模板库）是在加利褔尼亚州的惠普实验室中开发的一系列软件的统称，其中的代码采用了模板类及模板函数的方式，相对于传统的由函数和类组成的库来说，可以提供更好的代码作用。1994年7月，被美国国家标准学会纳入C++标准。",
+  "publisher": "华中科技大学出版社",
+  "clcNumber": "TP312",
+  "publicationDate": "2002-06",
+  "pricing": "68.00",
+  "totalPages": "493",
+  "binding": "平装",
+  "suitFlag": false
+}

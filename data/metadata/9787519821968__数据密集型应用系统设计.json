@@ -1,0 +1,16 @@
+{
+  "isbn": "9787519821968",
+  "title": "数据密集型应用系统设计",
+  "parallelTitle": "Designing Data-Intensive Applications",
+  "seriesTitle": null,
+  "author": "[美] Martin Kleppmann 著; 赵军平, 李三平, 吕云松, 耿煜 译",
+  "languageCode": "chi",
+  "description": "本书内容详实而富有实际指导价值，本书作者将带你纵览各种数据处理和存储技术，探讨背后的优劣与取舍之道。软件应用虽有千般变化，却终有若干原则贯穿其中。通过本书，软件开发者和架构师将学到如何将这些原则用于实践，如何在最新应用架构中充分发挥数据的威力。本书主要内容有：深入探索常用分布式系统内部机制，学习如何高效运用这些技术。分析各种工具的优势和不足，帮助做出明智的设计决策。解析一致性、扩展性、容错和复杂度之间的权衡利弊。介绍分布式系统研究的最新进展（现代数据库的基石）。揭示主流在线服务的基本架构。",
+  "publisher": "中国电力出版社",
+  "clcNumber": "TP274",
+  "publicationDate": "2018-09",
+  "pricing": "128.00",
+  "totalPages": "519",
+  "binding": "平装",
+  "suitFlag": false
+}

@@ -1,0 +1,16 @@
+{
+  "isbn": "9787115546494",
+  "title": "Rust程序设计",
+  "parallelTitle": "Programming Rust: Fast, Safe Systems Development",
+  "seriesTitle": "图灵程序设计丛书",
+  "author": "[美] Jim Blandy, Jason Orendorff 著; 李松峰 译",
+  "languageCode": "chi",
+  "description": "Rust是一种具有C和C++性能，同时安全且支持并发的新型系统编程语言，它具有现代灵活的类型，可确保程序在编译时不会出现空指针取消引用、双精度释放、悬空指针以及类似的错误。本书由两位经验丰富的系统程序员撰写，解释了Rust如何在性能和安全性之间架起桥梁，以及我们如何用好这门语言。书中主要内容包括：Rust的基本数据类型，关于所有权、引用等概念，表达式、错误处理、包和模块、结构体、枚举与模式等基础知识，Rust语言的特型与泛型，闭包，迭代器，集合，等等。",
+  "publisher": "人民邮电出版社",
+  "clcNumber": "TP312",
+  "publicationDate": "2020-09",
+  "pricing": "129.00",
+  "totalPages": "476",
+  "binding": "平装",
+  "suitFlag": false
+}

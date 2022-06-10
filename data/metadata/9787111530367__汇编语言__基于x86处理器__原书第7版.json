@@ -1,0 +1,16 @@
+{
+  "isbn": "9787111530367",
+  "title": "汇编语言: 基于x86处理器 (原书第7版)",
+  "parallelTitle": "Assembly Language for x86 Processors (7th Edition)",
+  "seriesTitle": "计算机科学丛书",
+  "author": "[美] Kip Irvine 著; 贺莲, 龚奕利 译",
+  "languageCode": "chi",
+  "description": "本书介绍x86和Intel64处理器的汇编语言编程与架构。前9章为汇编语言的核心概念，包括：汇编语言基础，x86处理器架构，数据传送、寻址和算术运算，过程，条件处理，整数运算，高级过程，以及字符串和数组。后4章介绍结构和宏、MS-Windows编程、浮点数处理和指令编码，以及高级语言接口。",
+  "publisher": "机械工业出版社",
+  "clcNumber": "TP313",
+  "publicationDate": "2016-03",
+  "pricing": "99.00",
+  "totalPages": "527",
+  "binding": "平装",
+  "suitFlag": false
+}

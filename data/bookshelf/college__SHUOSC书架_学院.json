@@ -1,0 +1,11 @@
+{
+  "id": "college",
+  "name": "SHUOSC书架-学院",
+  "location": "未定",
+  "beacon": {
+    "major": 61537,
+    "minor": 13219,
+    "uuid": "5c81351a-8666-4a9d-9876-e95d7ecbeeca"
+  },
+  "holdings": []
+}

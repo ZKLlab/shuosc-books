@@ -1,0 +1,16 @@
+{
+  "isbn": "9787111453833",
+  "title": "TCP/IP详解 卷1: 协议 (原书第2版)",
+  "parallelTitle": "TCP/IP Illustrated, Volume 1: The Protocols",
+  "seriesTitle": "计算机科学丛书",
+  "author": "[美] Kevin R. Fall, W. Richard Stevens 著; 吴英, 张玉, 许昱玮 译",
+  "languageCode": "chi",
+  "description": "本书主要讲述TCP/IP协议，展示每种协议的实际工作原理的同时还解释了其来龙去脉，新增了RPC、访问控制、身份认证、隐私保护、NFS、SMB/CIFS、DHCP、NAT、防火墙、电子邮件、Web、Web服务、无线、无线安全等内容，每章后还描述了针对协议的攻击方法。",
+  "publisher": "机械工业出版社",
+  "clcNumber": "TN915.04",
+  "publicationDate": "2016-06",
+  "pricing": "89.00",
+  "totalPages": "683",
+  "binding": "平装",
+  "suitFlag": true
+}

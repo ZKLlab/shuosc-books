@@ -1,0 +1,16 @@
+{
+  "isbn": "9787121363511",
+  "title": "混沌工程: Netflix系统稳定性之道",
+  "parallelTitle": "Chaos Engineering",
+  "seriesTitle": null,
+  "author": "[美] Lorin Hochstein, Aaron Blohowiak, Nora Jones, Ali Basiri 著; 侯杰 译",
+  "languageCode": "chi",
+  "description": "近年来，随着服务化、微服务和持续集成的逐渐普及，从开发到线上的便捷性大幅提高。我们在使用这些便利性所带来的好处的同时，对其负面性的问题也要有所认知。尤其是在一个复杂的分布式服务体系中，故障发生的随机性和不可预测性都大大增加了。快速迭代的门槛越来越低，但是对复杂系统稳定性的考验却在成倍增长。在这条路上，各家都有自己的经验实践。混沌工程从出现到标准化成为一门学科，是伴随着Netflix过去三年多时间里同稳定性持续战斗的历程一起成长起来的，这是每一次故障带来的深度思考，抽象而成的理论和实践的结合。混沌工程是一门相对高级的系统稳定性治理方法论，它提倡采用探索式的研究实验，发现生产环境中的各种风险。",
+  "publisher": "电子工业出版社",
+  "clcNumber": "TP338.8",
+  "publicationDate": "2019-08",
+  "pricing": "45.00",
+  "totalPages": "120",
+  "binding": "平装",
+  "suitFlag": false
+}

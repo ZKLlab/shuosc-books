@@ -1,0 +1,16 @@
+{
+  "isbn": "9787115417749",
+  "title": "程序员的数学 3: 线性代数",
+  "parallelTitle": null,
+  "seriesTitle": "图灵程序设计丛书",
+  "author": "[日] 平冈和幸, 堀玄 著; 卢晓南 译",
+  "languageCode": "chi",
+  "description": "本书沿袭“程序员的数学”系列平易近人的风格，用通俗的语言和具象的图表深入讲解了编程中所需的线性代数知识。内容包括向量、矩阵、行列式、秩、逆矩阵、线性方程、LU分解、特征值、对角化、Jordan标准型、特征值算法等。",
+  "publisher": "人民邮电出版社",
+  "clcNumber": "TP301.6",
+  "publicationDate": "2016-03",
+  "pricing": "79.00",
+  "totalPages": "384",
+  "binding": "平装",
+  "suitFlag": true
+}

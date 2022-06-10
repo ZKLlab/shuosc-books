@@ -1,0 +1,82 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Bookshelf",
+  "description": "SHUOSC书架信息",
+  "type": "object",
+  "properties": {
+    "id": {
+      "description": "ID",
+      "type": "string",
+      "pattern": "^[a-z](_?[a-z\\d])*$"
+    },
+    "name": {
+      "description": "名称",
+      "type": "string"
+    },
+    "location": {
+      "description": "地点",
+      "type": "string"
+    },
+    "beacon": {
+      "description": "信标数据",
+      "type": "object",
+      "properties": {
+        "major": {
+          "description": "Major值",
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 65535
+        },
+        "minor": {
+          "description": "Minor值",
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 65535
+        },
+        "uuid": {
+          "description": "Minor值",
+          "type": "string",
+          "pattern": "^[\\da-f]{8}-[\\da-f]{4}-[\\da-f]{4}-[\\da-f]{4}-[\\da-f]{12}$"
+        }
+      },
+      "required": [
+        "major",
+        "minor",
+        "uuid"
+      ],
+      "additionalProperties": false
+    },
+    "holdings": {
+      "description": "藏书列表",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "code": {
+            "description": "藏书唯一代码",
+            "type": "string",
+            "pattern": "^\\d{7}$"
+          },
+          "isbn": {
+            "description": "ISBN号",
+            "type": "string",
+            "pattern": "^978\\d{10}$"
+          }
+        },
+        "required": [
+          "code",
+          "isbn"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "id",
+    "name",
+    "location",
+    "beacon",
+    "holdings"
+  ],
+  "additionalProperties": false
+}

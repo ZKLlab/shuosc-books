@@ -1,0 +1,16 @@
+{
+  "isbn": "9787115508652",
+  "title": "重构: 改善既有代码的设计 (第2版)",
+  "parallelTitle": "Refactoring: Improving the Design of Existing Code",
+  "seriesTitle": null,
+  "author": "[美] Martin Fowler 著; 熊节, 林从羽 译",
+  "languageCode": "chi",
+  "description": "本书清晰揭示了重构的过程，解释了重构的原理和最佳实践方式，并给出了何时以及何地应该开始挖掘代码以求改善。书中给出了60多个可行的重构，每个重构都介绍了一种经过验证的代码变换手法的动机和技术。本书提出的重构准则将帮助你一次一小步地修改你的代码，从而减少了开发过程中的风险。",
+  "publisher": "人民邮电出版社",
+  "clcNumber": "TP311.11",
+  "publicationDate": "2019-04",
+  "pricing": "99.00",
+  "totalPages": "422",
+  "binding": "平装",
+  "suitFlag": false
+}

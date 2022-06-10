@@ -1,0 +1,16 @@
+{
+  "isbn": "9787115379597",
+  "title": "Python Cookbook: 中文版 (第3版)",
+  "parallelTitle": "Python Cookbook",
+  "seriesTitle": null,
+  "author": "[美] David M. Beazley, Brian K. Jones 著; 陈舸 译",
+  "languageCode": "chi",
+  "description": "本书介绍了Python应用在各个领域中的一些使用技巧和方法，其主题涵盖了数据结构和算法，字符串和文本，数字、日期和时间，迭代器和生成器，文件和I/O，数据编码与处理，函数，类与对象，元编程，模块和包，网络和Web编程，并发，实用脚本和系统管理，测试、调试以及异常，C语言扩展等。",
+  "publisher": "人民邮电出版社",
+  "clcNumber": "TP311.56",
+  "publicationDate": "2015-05",
+  "pricing": "108.00",
+  "totalPages": "684",
+  "binding": "平装",
+  "suitFlag": false
+}

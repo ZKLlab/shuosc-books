@@ -1,0 +1,16 @@
+{
+  "isbn": "9787115360670",
+  "title": "计算机程序设计艺术 卷1: 基本算法 (第3版)",
+  "parallelTitle": "The Art of Computer Programming, Vol 1: Fundamental Algorithms",
+  "seriesTitle": "图灵计算机科学丛书",
+  "author": "[美] Donald E. Knuth 著; 李伯民, 范明, 蒋爱军 译",
+  "languageCode": "chi",
+  "description": "本书从基本的编程概念和技术开始，然后讲述信息结构——计算机内信息的表示法，数据元素间的结构关系以及处理它们的有效方法。作为斯坦福大学计算机程序设计艺术的荣誉退休教授，他投入全部精力在关于计算机科学的史诗性的七卷集的工作。这一伟大工程在1962年他还是加州理工学院的研究生时就开始了。",
+  "publisher": "人民邮电出版社",
+  "clcNumber": "TP311.1",
+  "publicationDate": "2016-01",
+  "pricing": "198.00",
+  "totalPages": "517",
+  "binding": "精装",
+  "suitFlag": true
+}

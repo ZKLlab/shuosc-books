@@ -1,0 +1,16 @@
+{
+  "isbn": "9787508353944",
+  "title": "深入理解LINUX内核 (第三版)",
+  "parallelTitle": "Understanding the Linux Kernel",
+  "seriesTitle": null,
+  "author": "[美] Daniel P. Bovet, Marco Cesati 著; 陈莉君, 张琼声, 张宏伟 译",
+  "languageCode": "chi",
+  "description": "本书是一本非常优秀的描述Linux内核的书，主要描述了Linux如何与其他著名的Unix系统竞争、内存寻址、进程、中断和异常、内核同步、定时测量、进程调度、内存管理、进程地址空间、系统调用、信号、虚拟文件系统、I/O体系结构和设备驱动程序、块设备驱动程序、页高速缓存、访问文件、回收页框、Ext2和Ext3文件系统、进程通信、程序的执行等内容，通过对上述内容详细透彻地描述，为广大读者揭开了Linux内核的神秘面纱。本书写的系统、透彻，非常适合广大本专科院校学生学习，也是Linux内核开发人员不可缺少的工具书。",
+  "publisher": "中国电力出版社",
+  "clcNumber": "TP316.89",
+  "publicationDate": "2007-10",
+  "pricing": "98.00",
+  "totalPages": "896",
+  "binding": "平装",
+  "suitFlag": false
+}

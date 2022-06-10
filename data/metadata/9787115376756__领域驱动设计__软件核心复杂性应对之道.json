@@ -1,0 +1,16 @@
+{
+  "isbn": "9787115376756",
+  "title": "领域驱动设计: 软件核心复杂性应对之道",
+  "parallelTitle": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
+  "seriesTitle": null,
+  "author": "[美] Eric Evans 著; 赵俐, 盛海艳, 刘霞 译",
+  "languageCode": "chi",
+  "description": "本书是领域驱动设计方面的经典之作。全书围绕着设计和开发实践，结合若干真实的项目案例，向读者阐述如何在真实的软件开发中应用领域驱动设计。书中给出了领域驱动设计的系统化方法，并将人们普遍接受的一些最佳实践综合到一起，融入了作者的见解和经验，展现了一些可扩展的设计最佳实践、已验证过的技术以及便于应对复杂领域的软件项目开发的基本原则。",
+  "publisher": "人民邮电出版社",
+  "clcNumber": "TP311.5",
+  "publicationDate": "2016-06",
+  "pricing": "69.00",
+  "totalPages": "370",
+  "binding": "平装",
+  "suitFlag": false
+}

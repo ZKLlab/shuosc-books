@@ -1,0 +1,16 @@
+{
+  "isbn": "9787115367181",
+  "title": "Haskell并行与并发编程",
+  "parallelTitle": "Parallel and Concurrent Programming in Haskell",
+  "seriesTitle": null,
+  "author": "[英] Simon Marlow 著; 喻昌远 译",
+  "languageCode": "chi",
+  "description": "本书深入浅出地介绍如何使用Haskell语言及相关的库和框架编写并行和并发程序。本书用两个部分分别讲解并行Haskell编程和并发Haskell编程。书中包含大量可运行的代码示例，并附有详细的注释，读者通过亲身运行、修改和调试代码，可极大地加深对书中内容的理解。",
+  "publisher": "人民邮电出版社",
+  "clcNumber": "TP311.1",
+  "publicationDate": "2014-09",
+  "pricing": "59.00",
+  "totalPages": "259",
+  "binding": "平装",
+  "suitFlag": false
+}

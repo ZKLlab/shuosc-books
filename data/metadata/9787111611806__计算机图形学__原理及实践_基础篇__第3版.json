@@ -1,0 +1,16 @@
+{
+  "isbn": "9787111611806",
+  "title": "计算机图形学: 原理及实践 基础篇 (第3版)",
+  "parallelTitle": "Computer Graphics: Principles and Practice",
+  "seriesTitle": "计算机科学丛书",
+  "author": "[美] John F. Hughes, Andries van Dam, Morgan Mcguire, David F. Sklar, James D. Foley, Steven K. Feiner, Kurt Akeley 著; 彭群生, 刘新国, 苗兰芳, 吴鸿智 等译",
+  "languageCode": "chi",
+  "description": "本书是计算机图形学领域的著作，系统全面地介绍了计算机图形学领域的关键概念、算法、技术和应用。本书先介绍了如何创建二维和三维图像，接下来介绍了更为广泛的话题，包括图像表示和操纵、图像和信号处理、图像的缩放、纹理和纹理映射、交互技术、曲线分割、曲面分割、形状的隐式表示、网格、光、材料和散射、颜色、光传输、概率和蒙特卡洛集成、动画、空间数据结构、现代图形学硬件等内容。",
+  "publisher": "机械工业出版社",
+  "clcNumber": "TP391.411",
+  "publicationDate": "2018-11",
+  "pricing": "99.00",
+  "totalPages": "385",
+  "binding": "平装",
+  "suitFlag": false
+}
